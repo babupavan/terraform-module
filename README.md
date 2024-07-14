@@ -8,3 +8,11 @@
     instance_type
     access_key
     secret_key    
+
+################################################################
+##  execute below commands
+
+    terraform init
+    terraform validate
+    terraform plan
+    terraform apply
