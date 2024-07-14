@@ -1,4 +1,4 @@
-variable "ami-value" {
+variable "ami_value" {
    description = "this is my ami value"
 }
 
