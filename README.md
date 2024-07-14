@@ -1,6 +1,6 @@
 
 
-# TERRAFORM MODULE TO CREATE VPC,EC2 #
+# TERRAFORM MODULE TO CREATE VPC,EC2 in MUMBAI REGION (ap-south-1) #
 ## U NEED TO ADD a file TERRAFORM .TFVARS AS BELOW
 #####         terraform.tfvars
     ADD FOLLOWING IN terraform.tfvars
