@@ -39,7 +39,7 @@ resource "aws_route_table_association" "my-rta" {
 }
 
 resource "aws_instance" "ec2" {
-    ami = var.ami-value
+    ami = var.ami_value
     instance_type = var.instance_type
     subnet_id = aws_subnet.public-subnet.id
     key_name = var.example.key_name
